@@ -79,6 +79,11 @@ This game is built using **Python** and the **Pygame** library. If you haven’t
   python3 -m pygame --version
   ```
 
+## Some ScreenShots of Game
+![Game Screenshot](Game Images/game1.png)
+![Game Screenshot](Game Images/game2.png)
+![Game Screenshot](Game Images/game3.png)
+
 ## **Enjoy the Game!** 🎮  
 Get ready for an action-packed experience—dodge, shoot, and defend Earth from the alien invasion. Have fun playing! 🚀👾  
 
