@@ -17,3 +17,4 @@ class GameStats:
         """Manage number of ships"""
         self.ship_left = self.setting.ships_allowed
         self.score = 0
+        self.level = 1

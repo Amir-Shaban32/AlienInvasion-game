@@ -241,6 +241,8 @@ class Aliens:
         if self.stats.ship_left > 0:
             self.stats.ship_left -= 1
             self.score_board.prep_ships()
+            self.score_board.prep_level()
+            self.stats.reset_stats()
             # reset bullets , aliens and alien bullets
             self.bullets.empty()
             self.aliens.empty()

@@ -85,5 +85,5 @@ This game is built using **Python** and the **Pygame** library. If you haven’t
 ![Game Screenshot](GameImages/game3.png)
 
 ## **Enjoy the Game!** 🎮  
-Get ready for an action-packed experience—dodge, shoot, and defend Earth from the alien invasion. Have fun playing! 🚀👾  
+Run alien_invasion.py and Get ready for an action-packed experience—dodge, shoot, and defend Earth from the alien invasion. Have fun playing! 🚀👾  
 
